@@ -1,0 +1,11 @@
+/* index.css */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f3f5ef;
+  color: #1e2a24;
+  font-family: Arial, sans-serif;
+}
